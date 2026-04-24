@@ -18,7 +18,7 @@ common = { path = "../common" }
 http = "1.1.0"
 governor = { version = "0.6.3", default-features = false, features = ["no_std"]}
 acap = "0.3.0"
-rand = "0.8.5"
+rand = "0.10.1"
 thiserror = "1.0.64"
 derivative = "2.2.0"
 sha2 = "0.10.8"
